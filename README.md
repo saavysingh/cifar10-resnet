@@ -23,8 +23,10 @@ The dataset used is CIFAR-10, which includes 60,000 color images (32x32 pixels) 
 ## 📁 Project Structure
 ```
 cifar10-resnet/
-├── cifar10-resnet.ipynb
+├── model/
+│   └── cifar10-resnet.ipynb
 └── README.md
+
 ```
 
 ## 🚀 Running the Project
