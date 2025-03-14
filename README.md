@@ -2,7 +2,7 @@
 
 Team Members: Raj Trikha, Saavy Singh, Nikita Gupta
 
-In this project, I implemented a modified ResNet architecture designed specifically for image classification on the CIFAR-10 dataset. The primary objective was to achieve high accuracy while keeping the model complexity within a constraint of **5 million parameters**.
+In this project, we have implemented a modified ResNet architecture designed specifically for image classification on the CIFAR-10 dataset. The primary objective was to achieve high accuracy while keeping the model complexity within a constraint of **5 million parameters**.
 
 ## 📝 Project Description
 
