@@ -24,7 +24,7 @@ The dataset used is CIFAR-10, which includes 60,000 color images (32x32 pixels) 
 ```
 cifar10-resnet/
 ├── model/
-│   └── cifar10-resnet.ipynb
+│   └── modified_resnet.ipynb
 └── README.md
 
 ```
@@ -43,7 +43,7 @@ pip install torch torchvision matplotlib numpy
 
 ### Run Notebook
 ```bash
-jupyter notebook cifar10-resnet.ipynb
+jupyter notebook modified_resnet.ipynb
 ```
 
 ## 📌 Project Constraints
